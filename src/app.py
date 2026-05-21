@@ -75,7 +75,6 @@ activities = {
                                                                                                                                                                                                                                                                                                                                                                 "max_participants": 14,
                                                                                                                                                                                                                                                                                                                                                                         "participants": ["harper@mergington.edu", "ethan@mergington.edu"]
                                                                                                                                                                                                                                                                                                                                                                             }
-                                                                                                                                                                                                                                                                                                                                                                            }
 }
 
 
